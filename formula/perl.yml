@@ -1,0 +1,5 @@
+summary: perl runtime
+webpage: https://www.perl.org/
+version: 5.40.2
+bin-url: https://github.com/leleliu008/perl-distribution/releases/download/5.40.2/perl-5.40.2-freebsd-14.3-amd64.tar.xz
+bin-sha: cf1e1910da0a903b625eb8705415cd276cef304c1b79b72f216b8ea3e2f682bc
