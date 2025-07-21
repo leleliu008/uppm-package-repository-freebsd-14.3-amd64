@@ -29,12 +29,12 @@ jobs:
 
             run ./ppkg setup --syspm
             run ./ppkg update
-            run ./ppkg install freebsd-14.3-amd64/${{ matrix.pkg }} --static
-            run ./ppkg bundle  freebsd-14.3-amd64/${{ matrix.pkg }} .tar.xz
+            run ./ppkg install ${{ matrix.pkg }} --static
+            run ./ppkg bundle  ${{ matrix.pkg }} .tar.xz
 
-            PACKAGE_SUMMARY="$(./ppkg info-installed freebsd-14.3-amd64/${{ matrix.pkg }} summary)"
-            PACKAGE_VERSION="$(./ppkg info-installed freebsd-14.3-amd64/${{ matrix.pkg }} version)"
-            PACKAGE_WEB_URL="$(./ppkg info-installed freebsd-14.3-amd64/${{ matrix.pkg }} web-url)"
+            PACKAGE_SUMMARY="$(./ppkg info-installed ${{ matrix.pkg }} summary)"
+            PACKAGE_VERSION="$(./ppkg info-installed ${{ matrix.pkg }} version)"
+            PACKAGE_WEB_URL="$(./ppkg info-installed ${{ matrix.pkg }} web-url)"
 
             PACKAGE_BIN_FILENAME="${{ matrix.pkg }}-$PACKAGE_VERSION-freebsd-14.3-amd64.release.tar.xz"
 
@@ -42,7 +42,7 @@ jobs:
 
             PACKAGE_BIN_SHA="${SHA256SUM%%' '*}"
 
-            PACKAGE_BIN_URL="https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/@TAGNAME@/$PACKAGE_BIN_FILENAME"
+            PACKAGE_BIN_URL="https://github.com/${{ github.repository }}/releases/download/@TAGNAME@/$PACKAGE_BIN_FILENAME"
 
             cat > ${{ matrix.pkg }}.yml <<EOF
             summary: $PACKAGE_SUMMARY
