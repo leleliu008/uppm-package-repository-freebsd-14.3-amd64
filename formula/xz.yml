@@ -2,4 +2,4 @@ summary: A free, general-purpose data compression with a high compression ratio
 webpage: https://tukaani.org/xz
 version: 5.8.1 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/xz-5.8.1-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 2dd997106a543536d6a9c84d68d4b72808881c5818fbd41abe1da24458bfd041
+bin-sha: 9cb18f7399c2c25c10f5fafc2003658aaa00985ae1f3ed8cae1c5be6e5f3f316

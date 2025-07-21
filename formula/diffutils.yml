@@ -2,4 +2,4 @@ summary: File comparison utilities
 webpage: https://www.gnu.org/software/diffutils
 version: 3.10 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/diffutils-3.10-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 2279c618f93e56f8c66c97f08a499024f1f839c55cd39b81bb1eaf4a68383780
+bin-sha: a3dcab8f2edc5399b91f8e50066b07c4d1c7464dac38ed19878918449eeefbd7

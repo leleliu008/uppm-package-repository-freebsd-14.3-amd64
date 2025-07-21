@@ -2,4 +2,4 @@ summary: Utility for directing compilation
 webpage: https://www.gnu.org/software/make
 version: 4.4.1 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/gmake-4.4.1-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 37deab87b8aa32524094118ae0db78f0d4400aed2d9e97a7be8e7b5a70498379
+bin-sha: fe54342341ba1246ce46abf4d176cc72d240ffbd5336f3c357030629f6898e64

@@ -2,4 +2,4 @@ summary: A real-time compression utility with high compression ratios
 webpage: https://facebook.github.io/zstd
 version: 1.5.6 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/zstd-1.5.6-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: f1413c2a133b0d5f982702f62a2a38573f9143b4fa65ae80852e539ba6d950e3
+bin-sha: be4e08707983249af613c16cff4b37000cbcc04554ef2b5bab6f6eac73e32096

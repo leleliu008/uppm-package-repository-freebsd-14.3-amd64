@@ -2,4 +2,4 @@ summary: A command-line utility to print your currently running system informati
 webpage: https://github.com/leleliu008/sysinfo
 version: 2025.07.21 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/sysinfo-2025.07.21-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 20671327d99a6296afdc647c00146c1901e22c33ddcd319fd32e04963dfe2d39
+bin-sha: 243efd53dd3fcc8fd38017b9b7a1d0770c1b54649cbd592552a62da8c1319fe3

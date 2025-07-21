@@ -2,4 +2,4 @@ summary: A modern diagram scripting language that turns text to diagrams
 webpage: https://github.com/terrastruct/d2
 version: 0.7.0 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/d2-0.7.0-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: f0865e16315b3bd879b73062bead9dc202eac3dec77cdac7129213b9a429eb97
+bin-sha: 0d3aff780af54a8b5f2568e7141f3efd2f271ae0772eecf0cd98aa5e0eab3a2f

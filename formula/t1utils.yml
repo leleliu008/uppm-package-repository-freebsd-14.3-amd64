@@ -2,4 +2,4 @@ summary: A collection of command-line tools for manipulating PostScript Type 1 f
 webpage: https://www.lcdf.org/type/
 version: 1.42 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/t1utils-1.42-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 61bbcf23c9b86f03d231c58e3b05c654c7c3fe0ce54fda423040f09dcb20e69a
+bin-sha: 6c12b9a034d9badfdfd106db570cd3f9b4aa911850a53371e55f872a29352d43

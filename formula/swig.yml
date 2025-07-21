@@ -2,4 +2,4 @@ summary: A command-line tool for generating scripting interfaces to C/C++ code
 webpage: https://www.swig.org/
 version: 4.3.0 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/swig-4.3.0-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: c7923aecd9d8bc9dd77288b91c67b7c811b8811e3bed26421aafa2e84a8182c6
+bin-sha: 0c0291d82a5844eef9a6b492cbaca152f336bb6bbabefe68394409eb6eb3a3f9

@@ -2,4 +2,4 @@ summary: A command-line interface that brings github.com functionality to your t
 webpage: https://github.com/cli/cli
 version: 2.76.0 
 bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/gh-2.76.0-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 8e4f8356e53a124296e4bbeeb05f2ec0ee220838470dee474157dc8ad73fac05
+bin-sha: cb537bf7d74670ff3055ff2844a2a8b3c866f2fb9ceee89be9ea9a96a8373892
