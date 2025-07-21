@@ -1,0 +1,5 @@
+summary: base64 encoder and decoder
+webpage: https://github.com/leleliu008/C-examples
+version: 2025.07.21 
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/base64-2025.07.21-freebsd-14.3-amd64.release.tar.xz 
+bin-sha: 43d3c0c63b34a82f631ba1eb320ad508a2ce2289b1670ae40c07473837302f87
