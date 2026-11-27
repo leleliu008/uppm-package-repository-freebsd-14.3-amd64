@@ -1,5 +1,5 @@
-summary: File comparison utilities
+summary: A package of several programs related to finding differences between files
 webpage: https://www.gnu.org/software/diffutils
-version: 3.10 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/diffutils-3.10-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: a3dcab8f2edc5399b91f8e50066b07c4d1c7464dac38ed19878918449eeefbd7
+version: 3.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2026.11.27/diffutils-3.12-freebsd-14.3-amd64.release.tar.xz
+bin-sha: a78a1bc072085ab684e4453c6a02d5e1a075821e7dc174046b24f1098ad9fd77

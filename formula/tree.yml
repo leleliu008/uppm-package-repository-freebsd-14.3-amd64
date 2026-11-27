@@ -1,5 +1,5 @@
 summary: Display directories as trees (with optional color/HTML output)
 webpage: https://oldmanprogrammer.net/source.php?dir=projects/tree
-version: 2.2.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/tree-2.2.1-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 1aeacbe4288943a75bd4892328555c7a8b696fc873047aa9548a09ddee20cca9
+version: 2.2.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2026.11.27/tree-2.2.1-freebsd-14.3-amd64.release.tar.xz
+bin-sha: 1b4f9b3e565187fa0750dcc2d4eca71578b61ae2c4eea643e7ad42f56b0f95a1

@@ -1,5 +1,5 @@
 summary: Maintained ctags implementation
 webpage: https://ctags.io/
-version: 2025.07.21 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/uctags-2025.07.21-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: 3c73bfdd679fc6fdcba2834538dbeb988d2a269732b88533abd90a23321464f3
+version: 2026.11.27
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2026.11.27/uctags-2026.11.27-freebsd-14.3-amd64.release.tar.xz
+bin-sha: 178de8feb8dffb16cd04921fe0ecc070235c7a9f254f6ac8ec28d1163fabdb3b

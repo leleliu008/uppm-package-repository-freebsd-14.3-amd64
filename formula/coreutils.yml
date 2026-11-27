@@ -1,5 +1,5 @@
 summary: GNU File, Shell, and Text utilities
 webpage: https://www.gnu.org/software/coreutils
-version: 9.4 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/coreutils-9.4-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: ab007accdf9a83480685adc3d44d5e100ec805d08b8ded2406e019258192bdd5
+version: 9.12
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2026.11.27/coreutils-9.12-freebsd-14.3-amd64.release.tar.xz
+bin-sha: bffcd34d70e6d393a5f5bfa9561768c0193654f154b7188561595e20215e8821

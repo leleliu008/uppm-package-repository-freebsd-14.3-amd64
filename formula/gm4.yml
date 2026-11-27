@@ -1,5 +1,5 @@
 summary: Macro processing language
 webpage: https://www.gnu.org/software/m4
-version: 1.4.19 
-bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2025.07.21/gm4-1.4.19-freebsd-14.3-amd64.release.tar.xz 
-bin-sha: d39546687d7a1cf95d047461cfcef2d4376627e66abfb3197cc9b209dc6c98dc
+version: 1.4.21
+bin-url: https://github.com/leleliu008/uppm-package-repository-freebsd-14.3-amd64/releases/download/2026.11.27/gm4-1.4.21-freebsd-14.3-amd64.release.tar.xz
+bin-sha: f64e23ad1d414039ff092146cc09e3869b4320d49b7f3a018fa2b0b1c099e236
